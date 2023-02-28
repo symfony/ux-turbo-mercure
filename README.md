@@ -1,5 +1,7 @@
 # Symfony Turbo-Mercure
 
+**Deprecated: this package has been merged in [`symfony/ux-turbo`](https://github.com/symfony/ux-turbo), use it instead.**
+
 This library integrates [Symfony UX Turbo](https://symfony.com/bundles/ux-turbo/current/index.html)
 with [Mercure](https://mercure.rocks/) to allow you to broadcast real-time page
 updates to anyone using your site.
